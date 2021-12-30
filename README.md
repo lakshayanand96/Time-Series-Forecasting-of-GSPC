@@ -1,1 +1,1 @@
-# Time-Series-Forecasting-of-S-P-500-
+# Time-Series-Forecasting-of-GSPC
